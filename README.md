@@ -46,7 +46,15 @@ $ npm i -D @types/bcrypt
 $ npm i --save @nestjs/jwt
 $ npm i @nest/config
 ```
-
+## Extensions 
+```
+Vue - Official
+Dotenv official
+Material Icon Theme
+Paste JSON as Code
+SQLite Viewer
+WLS
+```
 ## Running the app
 
 ```bash
